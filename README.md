@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Prachiaanu
-- 👀 I’m interested in mystry 
 - 🌱 I’m currently learning web development 
 
 
